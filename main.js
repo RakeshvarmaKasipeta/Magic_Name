@@ -1,4 +1,4 @@
-var myName = "Congratulations \n D";
+var myName = "  Congratulations \n Dear";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
